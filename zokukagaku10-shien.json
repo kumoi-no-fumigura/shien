@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shien",
  "yomi": "しえんわかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸後期",
+  "author": "竹内享寿",
+  "desc": "竹内享寿の家集の抄。四季の題詠が中心で、紀貫之の九百回忌や香川景樹の十三回忌に寄せた歌も見える。"
+ },
  "editions": [
   {
    "pid": "993388",
