@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 7,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zokukagaku10-shien-0001",
@@ -1992,6 +1995,7 @@
   "poems": 153,
   "editions": 1,
   "updated": "2026-11-03",
-  "updated_at": "2026-11-03T18:25:59+09:00"
+  "updated_at": "2026-11-03T18:25:59+09:00",
+  "yaku": 7
  }
 }
